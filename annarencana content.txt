@@ -1,6 +1,7 @@
 -membuat list perhari
 -interveus
 dan tetap semngat
-menambah detail
-aku harus bisafa
-frame work
+
+menambah detail fitur laravel
+aku harus bisa
+
