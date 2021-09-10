@@ -1,5 +1,5 @@
 -membuat list perhari
 -interveus
 dan tetap semngat
-menambah detail
+menambah detail fitur laravel
 aku harus bisa
